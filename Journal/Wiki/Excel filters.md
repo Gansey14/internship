@@ -1,0 +1,10 @@
+- default way
+	- Home -> Filter and sort -> Filter
+	- ![[Pasted image 20250812085431.png]]
+	- ![[Pasted image 20250812085643.png]]
+- function
+	- Duplicate headings and put a custom changable filter argument
+	- Insert function (Starting with =Filter) 
+		- Array is the data (without the headings)
+		- Include is the part I am searching through = changeable filter 
+		- If empty put ""

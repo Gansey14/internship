@@ -1,0 +1,5 @@
+This log is connected to the [[Learning objective 5]]
+
+Today I try to organise myself a bit in the morning. I dealt with everything which was in the emails and I managed look into making of the table component for the order portal. It was really nice actually. I started off with using the plugin called Table creator and that helped me build the basic components. Afterwards I created a google sheet with fake data which will be imported into Figma. I also made a filtering bar but I miss all the functions around it. I also did not implement pagination yet.
+
+Valentin highlighted that it is good that I focused on data first because it gives you nice insight of what is necessary to display in the solution and he also likes that I automated a task which usually takes long. He suggested to randomize the order of the data in order to not be stuck with too short input for example and not get surprised later on.

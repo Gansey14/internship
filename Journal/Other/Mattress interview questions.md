@@ -1,0 +1,34 @@
+- Before shopping
+	- Why did you choose JYSK?
+		- It was the closest + I might have been the influence as well
+	- What are some of your thoughts before?
+	- Have you looked at anything online? -> No
+		- Did you compare your options? -> Only in the store
+	- How much knowledge do you have about mattresses?
+		- Type
+			- Inside is spring, foam, other -> he did not know
+		- Size -> He knew he wants 90cm because he has a 140cm at home and estimated it 
+		- Frame? -> We can not fit a frame now
+		- Elevated? -> He just wants a mattress
+		- Above ground? -> He just wants a mattress
+	- What are you looking for when buying a mattress?
+		- Cheap price, comfort or size? Combination? -> combination of comfort and price
+	- How important is it for you to try out the mattress? -> it was important - he first pushed it, then he sat and in the end he layed in it but it was a bit awkward because they were people around
+- During shopping
+	- Can you find it easily? -> we were unsure if you can buy just the mattress
+	- How do you make sure it is a good one?
+		- Will you sit or lay in it? -> Yes, both
+			- Is it weird to try? -> Yes, too many people
+	- Did you have a conversation with sales assistant? -> Yes
+		- What were the questions? -> Is it possible to buy the mattress separately? The answer was yes
+		- Were you unsure during the process? -> He liked the mattress and chose almost instantly. Went back one more time to confirm while I went to check room scents
+- Paying
+	- We had to wait until he will bring it. It did not take long time
+- Payed
+	- He justified the buy because he just needs it for the comfort of the sleep
+- Going home
+	- Carrying it home was easier than I thought. It is packed so one grown up can manage to take it alone
+- Setting it up
+	- The sales person said that it would be ideal to let it rest after opening one day before using it so it can full expand
+- using it 
+	- I will get an update later if we will need it

@@ -1,0 +1,15 @@
+The todos include:
+- [ ] Research the competitors for Pages
+	- [x] Put the images in the eagle, tag them and give a description
+	- [ ] Share the bookmarks
+	- [ ] Have a meeting with Daniel and Valentin
+	- [ ] Continue with the flows at some point
+- [ ] Research the competitors for Order portal
+	- [ ] Go through the order portal
+	- [ ] Write it down in Figma and make a sitemap
+	- [ ] Document the images in Eagle
+	- [ ] Write down questions for the people in order portal
+	- [ ] Schedule the meetings with the people in the order portal
+	- [ ] Write down improvements for order portal
+	- [ ] Prioritise the tasks (Go for the low hanging fruit)
+- [ ] Book a meeting with Cristina 

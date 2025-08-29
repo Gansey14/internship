@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "340358303cec0d1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "667654f68d3d2481",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f962499a88157423",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview questions/For Maria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "For Maria"
+            }
+          },
+          {
+            "id": "19513d47cf60a1d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily journal/Week 4/Day 14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 14"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97610e5a21b849df",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a8c0c95879f501d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f01a1c9c2f706ab0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9bf9d8a46891fd84",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bc211a2162b7215f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0eae1795aa336446",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a05f3d7c00bb5da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "459dbd911839ead9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily journal/Week 4/Day 13.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Day 13"
+            }
+          },
+          {
+            "id": "22f98da6c429dd7d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Interview questions/For Valentin.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from For Valentin"
+            }
+          },
+          {
+            "id": "55c39ef79f5e1182",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a3edcb7ecb4ad7f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Interview questions/For Valentin.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of For Valentin"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f962499a88157423",
+  "lastOpenFiles": [
+    "Interview questions/For users.md",
+    "Interview questions/For devs.md",
+    "Daily journal/Week 4/Day 15.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Daily journal/Week 4/Day 13.md",
+    "Daily journal/Week 4/Day 14.md",
+    "Untitled 1.base",
+    "2025-08-29.md",
+    "Interview questions/For Beljana.md",
+    "Learning objectives/Learning objective 2.md",
+    "Learning objectives/Learning objective 1.md",
+    "Images/Pasted image 20250812144232.png",
+    "Images/Pasted image 20250812085643.png",
+    "Images/Pasted image 20250812085431.png",
+    "Tasks/To-dos week 1.md",
+    "Wiki/Excel filters.md",
+    "Wiki/Order portal.md",
+    "Daily journal/Week 4/Day 16.md",
+    "Interview questions/For Jennifer.md",
+    "Interview questions/For Maria.md",
+    "Interview questions/For Valentin.md",
+    "Learning objectives/Learning objective 5.md",
+    "Learning objectives/Learning objective 4.md",
+    "Learning objectives/Learning objective 3.md",
+    "Daily journal/Week 3/Day 11.md",
+    "Daily journal/Week 3/Day 10.md",
+    "Daily journal/Week 3/Day 9.md",
+    "Daily journal/Week 1/Day 4.md",
+    "Daily journal/Week 1/Day 3.md",
+    "Daily journal/Week 1/Day 2.md",
+    "Daily journal/Week 1/Day 1.md",
+    "Other",
+    "Daily journal/Week 4",
+    "Daily journal/Week 3",
+    "Interview questions",
+    "Learning objectives",
+    "Images",
+    "Daily journal/Week 2",
+    "Daily journal/Week 1"
+  ]
+}
