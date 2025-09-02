@@ -1,6 +1,4 @@
 
-TO BE UPDATED
-
 - During which tasks do you need to use the order portal?
 - Do you tend to get frustrated or annoyed while doing the tasks?
 - When you work on tasks on computer do you try to become more efficient? If yes how? Do you use shortcuts(To search for example)?

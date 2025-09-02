@@ -8,31 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f962499a88157423",
+            "id": "88fc4357594a74ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview questions/For Maria.md",
+                "file": "Interview questions/For users/New questions for users.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "For Maria"
+              "title": "New questions for users"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "1bddb0ba66294e2d",
+        "type": "tabs",
+        "children": [
           {
-            "id": "19513d47cf60a1d1",
+            "id": "86d066bc315592f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily journal/Week 4/Day 14.md",
+                "file": "Intermission notes/Customer Service Interview (Template).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 14"
+              "title": "Customer Service Interview (Template)"
             }
           }
         ]
@@ -183,16 +189,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f962499a88157423",
+  "active": "88fc4357594a74ef",
   "lastOpenFiles": [
-    "Interview questions/For users.md",
+    "Intermission notes/Customer Service Interview (Template).md",
+    "Interview questions/For users/New questions for users.md",
+    "Interview questions/For users/My questions for users.md",
+    "Books/Jobs to be done Intercom.md",
+    "Intermission notes",
+    "Untitled.md",
     "Interview questions/For devs.md",
-    "Daily journal/Week 4/Day 15.md",
-    "Untitled.canvas",
-    "Untitled.base",
-    "Daily journal/Week 4/Day 13.md",
-    "Daily journal/Week 4/Day 14.md",
+    "Interview questions/For Maria.md",
+    "Interview questions/For users",
     "Untitled 1.base",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Images/Pasted image 20250902142135.png",
+    "Wiki/Excel filters.md",
+    "Books",
+    "Images/Pasted image 20250902142604.png",
+    "Images/Pasted image 20250902142435.png",
+    "Daily journal/Week 4/Day 14.md",
+    "Daily journal/Week 4/Day 15.md",
+    "Daily journal/Week 4/Day 13.md",
     "2025-08-29.md",
     "Interview questions/For Beljana.md",
     "Learning objectives/Learning objective 2.md",
@@ -201,29 +219,19 @@
     "Images/Pasted image 20250812085643.png",
     "Images/Pasted image 20250812085431.png",
     "Tasks/To-dos week 1.md",
-    "Wiki/Excel filters.md",
     "Wiki/Order portal.md",
     "Daily journal/Week 4/Day 16.md",
     "Interview questions/For Jennifer.md",
-    "Interview questions/For Maria.md",
     "Interview questions/For Valentin.md",
     "Learning objectives/Learning objective 5.md",
     "Learning objectives/Learning objective 4.md",
     "Learning objectives/Learning objective 3.md",
     "Daily journal/Week 3/Day 11.md",
     "Daily journal/Week 3/Day 10.md",
-    "Daily journal/Week 3/Day 9.md",
-    "Daily journal/Week 1/Day 4.md",
-    "Daily journal/Week 1/Day 3.md",
-    "Daily journal/Week 1/Day 2.md",
-    "Daily journal/Week 1/Day 1.md",
     "Other",
     "Daily journal/Week 4",
     "Daily journal/Week 3",
     "Interview questions",
-    "Learning objectives",
-    "Images",
-    "Daily journal/Week 2",
-    "Daily journal/Week 1"
+    "Learning objectives"
   ]
 }
